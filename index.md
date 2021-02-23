@@ -58,16 +58,10 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟悉 **Java 语言**，掌握 **Spring、Springboot、SpringCloud** 等主流框架
+- 熟悉 Java 语言，掌握 Spring、Springboot 等主流框架，了解 Redis 缓存组件与 RabbitMQ 异步处理机制。
 
-- 熟悉**MyBatis、Hibernate **框架
+- 熟悉 Spring、MyBatis、Hibernate 框架，并参与设计多个高可用性项目。
 
-- 熟练使用 **Oracle/MySQL** 数据库，对于 **Mongodb** 等 NOSQL 数据库具有一定的了解，拥有一定的数据库设计能力和优化能力
-
-- **Vue，JavaScript**
-
-- **Redis**
-
-- **Git**
+- 熟练使用 Oracle/MySQL 数据库，对于 Mongodb 等 NOSQL 数据库具有一定的了解，拥有一定的数据库设计能力和优化能力。
 
   
