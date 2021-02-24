@@ -10,10 +10,9 @@
              1063332009@qq.com
          </span>
      </div>
-
+</center>
 
  <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
 
  - 男，1994 年出生
  - 求职意向：Java 研发工程师
@@ -63,8 +62,8 @@
 - 熟悉 Spring、MyBatis、Hibernate 框架，并参与设计多个高可用性项目。
 
 - 熟练使用 Oracle/MySQL 数据库，对于 Mongodb 等 NOSQL 数据库具有一定的了解，拥有一定的数据库设计能力和优化能力。
-## <img src="assets/tools-solid.svg" width="30px"> 个人评价
 
+## <img src="assets/tools-solid.svg" width="30px"> 个人评价
 - 能够独立开发模块，独立思考解决问题
 - 责任强，抗压力强，善于发现问题和解决问题，具有很强的学习能力
 - 具有团队精神，有团队的时间观念和团队协作能力
