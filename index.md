@@ -51,10 +51,16 @@
 
 - Mes+
 
-  SpringBoot + SpringCloud + Aui+ MyBatis + Oracal + Redis
-
-  该项目是一个制造管理系统，本人主要负责成型测试模块。由于此项目部署在多个服务器上，存在并发请求，导致数据异常，在关键的请求上结合了Redisson分布式锁，给当前请求加上锁机制，保证同一时刻只能有一个线程获得锁，防止了数据异常的问题。
-
+ **项目描述:** 该项目是一个制造管理系统，本人主要负责成型测试模块。
+ 
+ **运用框架:**  SpringBoot + SpringCloud + MyBatis + Oracal + Redis + Kafka
+ 
+ **技术要点:** 
+  1. 使用redis分布式锁的方式给请求加锁,防止并发重复请求导致脏数据的出现
+  2. 运用spring事件监听机制，实现对过站模块代码的解耦操作
+  3. 使用消息队列服务,实现解决了针对某些特定场景需要对数据做同步处理并且减少反馈用户的操作感知
+  4. 使用EasyExcel模板导入导出功能
+  5. 前台使用websocket实现对设备实物的控制
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - 熟悉 Java 语言，掌握 Spring、Springboot 等主流框架，了解 Redis 缓存组件与 RabbitMQ 异步处理机制。
