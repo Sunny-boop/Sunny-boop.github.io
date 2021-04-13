@@ -22,7 +22,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1994 年出生
- - 求职意向：Java 研发工程师
+ - 求职意向：Java开发工程师
  - 工作经验：4年
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
