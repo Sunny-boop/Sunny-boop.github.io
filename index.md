@@ -42,11 +42,11 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟悉Java语言开发，熟练运用常用设计模式，具有良好的编码规范
-- 熟练掌握SpringMVC, Spring,MyBatis,Struts2,Hibernate,SpringBoot，SpringCloud等框架技术
-- 熟练掌握Mysql,Oracle等关系型数据库，具有良好的SQL编写及优化能力
-- 熟练使用Eclipse,IDEA,SVN，Git项目管理和项目构建工具
-- 了解分布式，熟悉消息队列技术Kafka，redis缓存,熟悉常用设计模式
+- 熟悉Java语言开发,熟练运用常用设计模式,具有良好的编码规范
+- 熟练掌握SpringMVC,Spring,MyBatis,Struts2,Hibernate,SpringBoot,SpringCloud等框架技术
+- 熟练掌握Mysql,Oracle等关系型数据库,具有良好的SQL编写及优化能力
+- 熟练使用Eclipse,IDEA,SVN,Git项目管理和项目构建工具
+- 了解分布式,熟悉消息队列技术Kafka,redis缓存,熟悉常用设计模式
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 - Mes+
