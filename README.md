@@ -42,7 +42,7 @@
 
 - 熟悉Java语言开发,熟练运用常用设计模式,具有良好的编码规范
 - 熟悉 Java 语言，掌握 Spring、Springboot 等主流框架，了解 Memcache、Redis 等缓存组件与 RabbitMQ 异步处理机制
-- 熟练使用 Oracle/MySQL 数据库，对于 Mongodb 等 NOSQL 数据库具有一定的了解，拥有一定的数据库设计能力和优化能力
+- 熟练使用 Oracle/MySQL 数据库，拥有一定的数据库设计能力和优化能力
 - 熟练使用Eclipse,IDEA,SVN,Git项目管理和项目构建工具
 - 了解分布式,熟悉消息队列技术Kafka,redis缓存,熟悉常用设计模式
 
